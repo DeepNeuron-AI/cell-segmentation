@@ -1,0 +1,9 @@
+tensorboard>=1.12.2
+torch>=0.4.1
+torchvision>=0.2.1
+kaggle>=1.5.2
+tensorboardX
+numpy>=1.15
+pillow>=5.4.1
+opencv-python>=4.0.0
+pandas>=0.24.1
